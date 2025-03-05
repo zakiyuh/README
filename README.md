@@ -9,6 +9,6 @@
 ## Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/zakiyamubarak/">
-    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"/>
   </a>
 </div>
