@@ -5,7 +5,7 @@
   - #### 🌴 I enjoy developing Machine Learning tools with a GIS focus
   - #### 📩 How to reach me: zakiyamubarak@outlook.com 
 ## Skills
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,mysql,tensorflow,mongodb,swift,canva,pytorch,gcp,github)](https://skillicons.dev)
 ## Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/zakiyamubarak/">
